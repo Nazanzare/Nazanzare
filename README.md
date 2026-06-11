@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nazanzare
+# Nazanin
 
 Frontend Developer focused on React, Next.js and modern web experiences.
 
